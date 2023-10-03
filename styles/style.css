@@ -118,6 +118,7 @@
 
 .cover__description-text {
   word-spacing: 18px;
+  white-space: nowrap;
 }
 
 .bet-button {
@@ -264,9 +265,10 @@
 }
 
 .footer__info {
-  font-style: normal; 
+  font-style: normal;
   line-height: 135%;
 }
+
 .footer__menu-list {
   list-style: none;
   text-align: center;
